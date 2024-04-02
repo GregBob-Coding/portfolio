@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Highlighted Projects 
 
-[Project 1 Title](https://gregbob-coding.github.io/portfolio/internal_page)
+[Large Scale Data Restructuring](https://gregbob-coding.github.io/portfolio/internal_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data File Process Improvment](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
